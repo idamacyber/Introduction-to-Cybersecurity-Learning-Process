@@ -22,3 +22,10 @@ Modern organizations rely on secure architecture and design to prevent breaches 
 
 ## Summary
 This module reinforced the importance of building security into system architecture and design from the beginning.
+
+## Evidence
+
+<img src="./architecture-1.png" width="100%" />
+
+<img src="./architecture-2.png" width="100%" />
+
