@@ -27,7 +27,9 @@ This module introduced essential cryptographic concepts and showed how they are 
 
 ### 📊 Evidence & Documentation
 
-All screenshots and explanations for this module are documented in the Google Slides below:
+All screenshots and explanations for this module are documented here:
 
-🔗 **Google Slides (Module 6 –Cryptography & Secure Solution Implementation I)**  
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1WT5wXdNxGVFMOLgamOrIQ-S3fBIHuXPY/edit?usp=sharing&ouid=117891865848714392423&rtpof=true&sd=true
+)
+
 https://docs.google.com/presentation/d/1WT5wXdNxGVFMOLgamOrIQ-S3fBIHuXPY/edit?usp=sharing&ouid=117891865848714392423&rtpof=true&sd=true
