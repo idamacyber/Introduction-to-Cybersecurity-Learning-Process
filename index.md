@@ -25,5 +25,22 @@ Please click each module below to view objectives, learning summary, and evidenc
 🔗 [View Module 6](./module-6-cryptography-secure-solution-implementation/)
 
 ---
+## 🧪 TryHackMe Practical Labs
+
+I actively practice hands-on cybersecurity labs using TryHackMe to strengthen my technical skills.
+
+🔗 **TryHackMe Profile:**  
+(https://tryhackme.com/p/idamavothuke)
+
+### Areas Covered
+- Networking fundamentals
+- Linux & Windows basics
+- Threat detection
+- Blue Team security concepts
+- Security tools and techniques
+
+📁 **Evidence & Notes:**  
+See detailed documentation here:  
+[View TryHackMe Portfolio](./tryhackme/)
 
 📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
