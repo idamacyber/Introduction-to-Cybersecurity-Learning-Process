@@ -18,11 +18,10 @@ over a network.
 
 ### 📊 Evidence & Documentation
 
-All screenshots and explanations for this module are documented in the Google Slides below:
+All screenshots and explanations for this module are documented here:
 
-🔗 **Google Slides (Module 2 – Networking)**
-](https://docs.google.com/presentation/d/19vhxyDZN89SKWR4bHyCUHsV8j6NaV-QgvdVoGN8cgDs/edit?usp=sharing
-)
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/19vhxyDZN89SKWR4bHyCUHsV8j6NaV-QgvdVoGN8cgDs/edit?usp=sharing)
+
 ## Summary
 This checkpoint strengthened my understanding of networking fundamentals,
 which are essential for detecting, analyzing, and defending against cyber threats.
