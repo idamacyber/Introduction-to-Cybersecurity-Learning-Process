@@ -16,18 +16,13 @@ over a network.
 - Differences between TCP and UDP
 - How networking knowledge supports cybersecurity operations
 
-## Evidence
+### 📊 Evidence & Documentation
 
-![Evidence 1](./evidence1.png)
-![Evidence 2](./evidence2.png)
-![Evidence 3](./evidence3.png)
-![Evidence 4](./evidence4.png)
-![Evidence 5](./evidence5.png)
+All screenshots and explanations for this module are documented in the Google Slides below:
 
-
-
-
-
+🔗 **Google Slides (Module 2 – Networking)**
+](https://docs.google.com/presentation/d/19vhxyDZN89SKWR4bHyCUHsV8j6NaV-QgvdVoGN8cgDs/edit?usp=sharing
+)
 ## Summary
 This checkpoint strengthened my understanding of networking fundamentals,
 which are essential for detecting, analyzing, and defending against cyber threats.
