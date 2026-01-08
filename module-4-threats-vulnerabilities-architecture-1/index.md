@@ -23,12 +23,9 @@ Organizations use secure architectures and vulnerability management to reduce th
 ## Summary
 This module provided insight into how threats and vulnerabilities affect systems and how proper architecture design plays a key role in cybersecurity defense.
 
-## Evidence
+### 📊 Evidence & Documentation
 
-![Evidence 1](./evidence1.png)
-![Evidence 2](./evidence2.png)
-![Evidence 3](./evidence3.png)
-![Evidence 4](./evidence4.png)
-![Evidence 5](./evidence5.png)
+All screenshots and explanations for this module are documented in the Google Slides below:
 
-
+🔗 **Google Slides (Module 4 – Threats, Vulnerabilities & Architecture I)**  
+(https://docs.google.com/presentation/d/1eoxIFlsCw6yiJbS8OERFvsYVZdKdkYTmX1MpI3w_PqI/edit?usp=sharing)
