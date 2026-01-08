@@ -25,10 +25,9 @@ This module introduced essential cryptographic concepts and showed how they are 
 
 ## Evidence
 
-![Evidence 1](./evidence1.png)
-![Evidence 2](./evidence2.png)
-![Evidence 3](./evidence3.png)
-![Evidence 4](./evidence4.png)
-![Evidence 5](./evidence5.png)
+### 📊 Evidence & Documentation
 
+All screenshots and explanations for this module are documented in the Google Slides below:
 
+🔗 **Google Slides (Module 6 –Cryptography & Secure Solution Implementation I)**  
+https://docs.google.com/presentation/d/1WT5wXdNxGVFMOLgamOrIQ-S3fBIHuXPY/edit?usp=sharing&ouid=117891865848714392423&rtpof=true&sd=true
