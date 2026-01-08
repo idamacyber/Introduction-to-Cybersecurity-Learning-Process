@@ -3,7 +3,7 @@
 This section documents my hands-on cybersecurity learning using TryHackMe.
 
 🔗 TryHackMe Profile:
-https://tryhackme.com/p/YOUR_USERNAME
+(https://tryhackme.com/p/idamavothuke)
 
 ## What I Practiced
 - Networking fundamentals
