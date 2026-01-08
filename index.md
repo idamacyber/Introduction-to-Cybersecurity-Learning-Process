@@ -27,4 +27,3 @@ Please click each module below to view objectives, learning summary, and evidenc
 ---
 
 📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
-
