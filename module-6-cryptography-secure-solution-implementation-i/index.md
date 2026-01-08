@@ -22,3 +22,10 @@ Cryptography is used in HTTPS, VPNs, secure storage, and authentication systems 
 
 ## Summary
 This module introduced essential cryptographic concepts and showed how they are applied in real-world secure systems.
+
+## Evidence
+
+<img src="./crypto-lab-1.png" width="100%" />
+
+<img src="./crypto-lab-2.png" width="100%" />
+
