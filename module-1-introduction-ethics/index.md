@@ -15,9 +15,12 @@ To understand the foundations of cybersecurity and the importance of ethics in t
 
 ## Evidence
 
-<img src="./ethics-lab-1.png" width="100%" />
+<img src="./screenshot1.png" width="100%" />
 
-<img src="./ethics-lab-2.png" width="100%" />
+<img src="./screenshot2.png" width="100%" />
+
+<img src="./screenshot3.png" width="100%" />
+
 
 
 ## Summary
