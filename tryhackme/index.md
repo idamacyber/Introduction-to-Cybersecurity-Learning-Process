@@ -16,3 +16,4 @@ This section documents my hands-on cybersecurity learning using TryHackMe.
 - Wireshark
 - Burp Suite
 - Linux command line
+# TryHackMe Practical Labs
