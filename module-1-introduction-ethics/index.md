@@ -15,11 +15,10 @@ To understand the foundations of cybersecurity and the importance of ethics in t
 
 ## Evidence
 
-![Checkpoint 1](./Checkpoint%20Intro%20to%20CyberSecurity.png)
-![Checkpoint 2](./Checkpoint%20Intro%20to%20CyberSecurity%20(1).png)
-![Checkpoint 3](./Checkpoint%20Intro%20to%20CyberSecurity%20(2).png)
-![Checkpoint 4](./Checkpoint%20Intro%20to%20CyberSecurity%20(3).png)
-![Checkpoint 5](./Checkpoint%20Intro%20to%20CyberSecurity%20(4).png)
+<img src="./ethics-lab-1.png" width="100%" />
+
+<img src="./ethics-lab-2.png" width="100%" />
+
 
 ## Summary
 This module introduced me to cybersecurity fundamentals and ethical principles that guide responsible security practices.
