@@ -25,7 +25,7 @@ This module helped me understand how cybersecurity teams actively defend systems
 
 ### 📊 Evidence & Documentation
 
-All screenshots and explanations for this module are documented in the Google Slides below:
+All screenshots and explanations for this module are documented here:
 
-🔗 **Google Slides (Module 3 – Active Defense)**  
-(https://docs.google.com/presentation/d/1BNS81NCNovSplIKuFzUSsh9rm93Uns510YfOLbmdMgQ/edit?slide=id.p#slide=id.p)
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1BNS81NCNovSplIKuFzUSsh9rm93Uns510YfOLbmdMgQ/edit?slide=id.p#slide=id.p)
+  
