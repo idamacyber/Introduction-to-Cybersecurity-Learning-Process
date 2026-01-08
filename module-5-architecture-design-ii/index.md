@@ -25,11 +25,10 @@ This module reinforced the importance of building security into system architect
 
 ### 📊 Evidence & Documentation
 
-All screenshots and explanations for this module are documented in the Google Slides below:
+All screenshots and explanations for this module are documented here:
 
-🔗 **Google Slides (Module 5 – Architecture & Design II)**  
-https://docs.google.com/presentation/d/1UFwFzdNVbKayqlwKATcCphfDEoZptolXinZd9ImVJdk/edit?usp=sharing
-
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1UFwFzdNVbKayqlwKATcCphfDEoZptolXinZd9ImVJdk/edit?usp=sharing
+)
 
 <img src="./architecture-1.png" width="100%" />
 
