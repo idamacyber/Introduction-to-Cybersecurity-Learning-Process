@@ -25,6 +25,7 @@ This module provided insight into how threats and vulnerabilities affect systems
 
 ## Evidence
 
-![Checkpoint Evidence 1](./_Checkpoint%20Attacks,%20Threats,%20Vulnerabilities%20(1).png)
-![Checkpoint Evidence 2](./_Checkpoint%20Attacks,%20Threats,%20Vulnerabilities%20(2).png)
-![Checkpoint Evidence 3](./_Checkpoint%20Attacks,%20Threats,%20Vulnerabilities%20(3).png)
+<img src="./threats-lab-1.png" width="100%" />
+
+<img src="./threats-lab-2.png" width="100%" />
+
