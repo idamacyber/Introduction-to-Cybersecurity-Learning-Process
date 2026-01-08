@@ -23,7 +23,13 @@ Modern organizations rely on secure architecture and design to prevent breaches 
 ## Summary
 This module reinforced the importance of building security into system architecture and design from the beginning.
 
-## Evidence
+### 📊 Evidence & Documentation
+
+All screenshots and explanations for this module are documented in the Google Slides below:
+
+🔗 **Google Slides (Module 5 – Architecture & Design II)**  
+https://docs.google.com/presentation/d/1UFwFzdNVbKayqlwKATcCphfDEoZptolXinZd9ImVJdk/edit?usp=sharing
+
 
 <img src="./architecture-1.png" width="100%" />
 
