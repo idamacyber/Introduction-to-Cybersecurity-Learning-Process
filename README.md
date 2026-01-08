@@ -1,4 +1,4 @@
-# Gomycode Cybersecurity Checkpoints
+# IDAMA VICTORY OTHUKE Gomycode Cybersecurity Checkpoints
 
 This repository contains my completed checkpoints from the
 Gomycode Cybersecurity program. It documents my learning progress,
