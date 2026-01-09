@@ -64,9 +64,6 @@ All screenshots and explanations for this module are documented here:
 
 🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1cvIEaL2wf5nwGquOMw6sLVBxH2L8S-cYj6upOEsh2UQ/edit?usp=sharing)
 
-### Summary
-The report includes executive summary, identified vulnerabilities, risk analysis, and remediation recommendations.
-
 ## Phase 4 – Kali Linux
 
 ### Objective
