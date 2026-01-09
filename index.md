@@ -29,4 +29,7 @@ Please click each module below to view objectives, learning summary, and evidenc
  
 [View TryHackMe Portfolio](./tryhackme/)
 
+### ✅ Gomycode Project
+[View Project](./Gomycodeproject/)
+
 📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
