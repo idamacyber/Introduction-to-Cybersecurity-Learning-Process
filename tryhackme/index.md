@@ -41,3 +41,11 @@ All screenshots and explanations for this module are documented here:
 All screenshots and explanations for this module are documented here:
 
 🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/13TIrvURyyss5FUqHMBhnYUA0HERyD5rFDtSKCvpJg-c/edit?usp=sharing)
+
+### 📊 Evidence & Documentation of C2 Detection-Command & Carol
+
+All screenshots and explanations for this module are documented here:
+
+🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1swHibrDxFuohe9y2yI8148B4MU1pRWQ0LK-chaz_r7s/edit?usp=sharing)
+
+
