@@ -48,4 +48,11 @@ All screenshots and explanations for this module are documented here:
 
 🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1swHibrDxFuohe9y2yI8148B4MU1pRWQ0LK-chaz_r7s/edit?usp=sharing)
 
+## SOC Analyst Hands-on Practice
+
+📄 [SOC Analyst Practice – TryHackMe](tryhackme/SOC_Analyst_Practice_TryHackMe.pdf)
+
+This document contains evidence of hands-on SOC analyst practice,
+including alert triage, SIEM investigation, incident reporting,
+and performance metrics (MTTR, dwell time).
 
