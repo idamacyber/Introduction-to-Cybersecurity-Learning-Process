@@ -134,4 +134,7 @@ Please click each module below to view objectives, learning summary, and evidenc
 ### ✅ Gomycode Project
 [View Project](./module-7-Gomycodeproject/)
 
+### ✅ Race Condition Exploitation 
+🔗 [View Project](./Race-Condition-Exploitation/)
+
 📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
