@@ -137,4 +137,7 @@ Please click each module below to view objectives, learning summary, and evidenc
 ### ✅ Race Condition Exploitation 
 🔗 [View Project](./Race-Condition-Exploitation/)
 
+### ✅ Wireshark Traffic Analysis 
+🔗 [View Project](./Wireshark-Traffic-Analysis/)
+
 📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
