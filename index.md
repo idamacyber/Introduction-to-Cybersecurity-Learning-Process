@@ -9,12 +9,12 @@ Hands-on experience in vulnerability assessment, web application testing, and ne
 
 # 🔥 Featured Projects
 
-### 🧪 TryHackMe Practical Labs
+### ✅ TryHackMe Blue Team Labs
  
-🔗[View TryHackMe Portfolio](./tryhackme/)
+🔗[View TryHackMe Portfolio](./TryHackMe-Blue-Team-Labs/)
 
-### ✅ Gomycode Project
-🔗[View Project](./module-7-Gomycodeproject/)
+### ✅ Security Capstone Project
+🔗[View Project](./Security-Capstone-Project/)
 
 ### ✅ Race Condition Exploitation 
 🔗 [View Project](./Race-Condition-Exploitation/)
@@ -22,7 +22,7 @@ Hands-on experience in vulnerability assessment, web application testing, and ne
 ### ✅ Wireshark Traffic Analysis 
 🔗 [View Project](./Wireshark-Traffic-Analysis/)
 
-### ✅ Internal Network Vulnerability Assessment
+### ✅ Vulnerability Assessment
 🔗 [View Project](./Vulnerability-Assessment/)
 
 ---
@@ -82,23 +82,23 @@ Comprehensive cybersecurity training covering foundational and defensive securit
 
 Detailed module summaries and practical evidence:
 
-### ✅ Module 1: Introduction & Ethics  
-🔗 [View Module 1](./module-1-introduction-ethics/)
+### ✅ Security Ethics Fundamentals
+🔗 [View Project](./Security-Ethics-Fundamentals/)
 
-### ✅ Module 2: Networking  
-🔗 [View Module 2](./module-2-networking/)
+### ✅ Network Fundamentals
+🔗 [View Project](./Network-Fundamentals/)
 
-### ✅ Module 3: Active Defense  
-🔗 [View Module 3](./module-3-active-defense/)
+### ✅ Active Defense Lab  
+🔗 [View Project](./Active-Defense-Lab/)
 
-### ✅ Module 4: Threats, Vulnerabilities & Architecture I  
-🔗 [View Module 4](./module-4-threats-vulnerabilities-architecture-1/)
+### ✅ Threats Vulnerabilities Architecture
+🔗 [View Project](./Threats-Vulnerabilities-Architecture/)
 
-### ✅ Module 5: Architecture & Design II  
-🔗 [View Module 5](./module-5-architecture-design-ii/)
+### ✅ Secure Architecture Design  
+🔗 [View Project](./Secure-Architecture-Design/)
 
-### ✅ Module 6: Cryptography & Secure Solution Implementation  
-🔗 [View Module 6](module-6-cryptography-secure-solution-implementation)
+### ✅ Cryptography Secure Implementation 
+🔗 [View Project](./Cryptography-Secure-Implementation/)
 
 # 🎯 Career Objective
 
