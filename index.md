@@ -140,7 +140,7 @@ Please click each module below to view objectives, learning summary, and evidenc
 ### ✅ Wireshark Traffic Analysis 
 🔗 [View Project](./Wireshark-Traffic-Analysis/)
 
-### ✅ Wireshark Traffic Analysis 
-🔗 [View Project](./Wireshark-Traffic-Analysis/)
+### ✅ Internal Network Vulnerability Assessment
+🔗 [View Project](./Internal-Network-Vulnerability-Assessment/)
 
 📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
