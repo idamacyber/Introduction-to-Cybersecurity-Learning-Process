@@ -13,9 +13,6 @@ Hands-on experience in vulnerability assessment, web application testing, and ne
  
 🔗[View TryHackMe Portfolio](./TryHackMe-Blue-Team-Labs/)
 
-### ✅ Security Capstone Project
-🔗[View Project](./Security-Capstone-Project/)
-
 ### ✅ Race Condition Exploitation 
 🔗 [View Project](./Race-Condition-Exploitation/)
 
@@ -24,6 +21,9 @@ Hands-on experience in vulnerability assessment, web application testing, and ne
 
 ### ✅ Vulnerability Assessment
 🔗 [View Project](./Vulnerability-Assessment/)
+
+### ✅ Security Capstone Project
+🔗[View Project](./Security-Capstone-Project/)
 
 ---
 
