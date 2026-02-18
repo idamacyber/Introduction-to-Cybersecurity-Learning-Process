@@ -20,12 +20,13 @@ To understand active defense techniques and how organizations detect, respond to
 ## Real-World Relevance
 Active defense is used in Security Operations Centers (SOC) to monitor systems continuously and respond to cyber threats such as malware, brute-force attacks, and network intrusions.
 
-## Summary
-This module helped me understand how cybersecurity teams actively defend systems by monitoring, detecting, and responding to threats using security tools and processes.
-
 ### 📊 Evidence & Documentation
 
 All screenshots and explanations for this module are documented here:
 
 🔗 [Google Slides – Module X](https://docs.google.com/presentation/d/1BNS81NCNovSplIKuFzUSsh9rm93Uns510YfOLbmdMgQ/edit?slide=id.p#slide=id.p)
+
+## Summary
+This module helped me understand how cybersecurity teams actively defend systems by monitoring, detecting, and responding to threats using security tools and processes.
+
   
