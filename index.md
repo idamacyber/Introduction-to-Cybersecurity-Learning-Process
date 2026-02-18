@@ -1,112 +1,86 @@
-# Introduction to Cybersecurity – Learning Process
 
-## 👤 About Me
-My name is **Idama Victory Othuke**, an aspiring **Cybersecurity Analyst** with hands-on experience in security fundamentals, vulnerability assessment, and defensive security practices.  
-This repository documents my **learning journey, practical labs, and projects** completed during my cybersecurity training with **Gomycode** and independent practice.
+# Idama Victory Othuke
 
-My focus is on **Blue Team / SOC Analyst (Entry-Level)** roles, with strong interest in vulnerability management, security monitoring, and risk assessment.
+Aspiring SOC Analyst | Blue Team |Vulnerability Assessment  
 
----
-
-## 🎯 Objective
-To build a strong foundation in cybersecurity concepts through **practical labs, tools, and real-world simulations**, while developing the technical and reporting skills required for entry-level cybersecurity roles.
+Hands-on experience in vulnerability assessment, web application testing, and network traffic analysis.
 
 ---
 
-## 🧠 Skills & Competencies
-- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)
-- Cryptography & data encryption concepts
-- Vulnerability identification and assessment
-- Security auditing & reporting
-- Linux fundamentals (Kali Linux)
-- Defensive security mindset (Blue Team)
+# 🔥 Featured Projects
+
+### 🧪 TryHackMe Practical Labs
+ 
+🔗[View TryHackMe Portfolio](./tryhackme/)
+
+### ✅ Gomycode Project
+🔗[View Project](./module-7-Gomycodeproject/)
+
+### ✅ Race Condition Exploitation 
+🔗 [View Project](./Race-Condition-Exploitation/)
+
+### ✅ Wireshark Traffic Analysis 
+🔗 [View Project](./Wireshark-Traffic-Analysis/)
+
+### ✅ Internal Network Vulnerability Assessment
+🔗 [View Project](./Vulnerability-Assessment/)
 
 ---
 
-## 🛠️ Tools & Technologies
-- **OWASP ZAP** – Web application vulnerability scanning
-- **Kali Linux** – Security testing environment
-- **GitHub** – Documentation & portfolio management
-- **TryHackMe** – Hands-on cybersecurity labs
-- **Markdown** – Technical documentation
+# 🛠 Technical Skills
 
----
+## 🖥 Operating Systems
+- Kali Linux
+- Debian Linux
+- Windows
+- Windows Server (Active Defense Lab)
 
-## 📂 Repository Structure
+## 🔍 Security Tools
+- Nessus (Vulnerability Scanning)
+- OWASP ZAP (Web Application Security Testing)
+- Burp Suite (Web Proxy & Interception)
+- Wireshark (Network Traffic Analysis)
+- Nmap (Network Discovery & Port Scanning)
+- nslookup (DNS Enumeration)
 
-### 🔹 Gomycode Projects
-Hands-on labs and assignments completed during the Gomycode Cybersecurity program:
-- Data Encryption
-- Networking Fundamentals
-- Threats & Vulnerabilities
-- Architecture & Secure Design
-- Cryptography & Secure Solution Implementation
-- Audit & Vulnerability Assessment Report
+## 📊 SIEM & Monitoring
+- SIEM Fundamentals (TryHackMe Labs)
+- Log Analysis & Event Correlation Basics
 
-### 🔹 Module Checkpoints
-Each module contains:
-- Learning objectives  
-- Key concepts covered  
-- What I learned  
-- Practical outcomes  
+## 🌐 Networking & Protocols
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Packet Analysis
+- Basic Firewall Concepts
 
-### 🔹 TryHackMe
-Documented progress and practice labs focused on:
-- Blue Team fundamentals
-- SOC-related skills
-- Defensive security concepts
+## 🧪 Lab Environments
+- DVWA (Damn Vulnerable Web Application)
+- Local Virtual Lab Setup
+- TryHackMe Blue Team Labs
 
----
+## 🔐 Security Concepts
+- Vulnerability Assessment
+- Web Application Security
+- Race Condition Exploitation
+- CVSS Scoring
+- Risk Identification
+- Access Control Principles
+- Basic Cryptography
 
-## 📊 Key Projects Summary
-
-### 1️⃣ Data Encryption
-- Explored encryption fundamentals and cryptographic algorithms  
-- Understood how encryption protects data confidentiality and integrity  
-
-### 2️⃣ Zed Attack Proxy (ZAP) – Vulnerability Assessment
-- Scanned a web application using OWASP ZAP  
-- Identified common web vulnerabilities  
-- Analyzed findings and security impact  
-
-### 3️⃣ Audit & Vulnerability Assessment Report
-- Drafted a structured security audit report  
-- Included executive summary, findings, risk impact, and mitigation recommendations  
-
-### 4️⃣ Kali Linux Fundamentals
-- Worked with Kali Linux as a penetration testing and security analysis platform  
-- Understood common security tools and Linux-based workflows  
-
----
-
-## 🚀 Career Goal
-I am seeking opportunities as a:
-- **SOC Analyst (Entry-Level)**
-- **Junior Cybersecurity Analyst**
-- **Security Operations Intern**
-
-My goal is to continuously improve my defensive security skills while contributing to real-world security operations.
-
----
-
-## 📬 Contact
-- **GitHub:** https://github.com/idamacyber
-- **LinkedIn:** (https://www.linkedin.com/in/idama-victory-89388a257/)
+## 🧠 Defensive Security Focus
+- Blue Team Mindset
+- Threat Detection Basics
+- Security Monitoring Fundamentals
 
 
+# 🔥Introduction-to-Cybersecurity-Learning-Process @Gomycode
 
+# 📚 Structured Training & Checkpoints
 
-This repository contains my own explanations and learning notes.
-It does not include restricted exam or proprietary content.
+Comprehensive cybersecurity training covering foundational and defensive security concepts.
 
-
-IDAMA VICTORY OTHUKE Gomycode Cybersecurity Checkpoints
-
----
-
-## 📘 Course Checkpoints
-
-Please click each module below to view objectives, learning summary, and evidence.
+Detailed module summaries and practical evidence:
 
 ### ✅ Module 1: Introduction & Ethics  
 🔗 [View Module 1](./module-1-introduction-ethics/)
@@ -126,21 +100,21 @@ Please click each module below to view objectives, learning summary, and evidenc
 ### ✅ Module 6: Cryptography & Secure Solution Implementation  
 🔗 [View Module 6](module-6-cryptography-secure-solution-implementation)
 
+# 🎯 Career Objective
+
+Seeking an entry-level SOC Analyst role where I can apply hands-on skills in vulnerability assessment, threat detection, and network analysis while continuously growing in defensive cybersecurity.
+
+## 📬 Contact
+- **GitHub:** https://github.com/idamacyber
+- **LinkedIn:** (https://www.linkedin.com/in/idama-victory-89388a257/)
+
+
 ---
-### 🧪 TryHackMe Practical Labs
- 
-🔗[View TryHackMe Portfolio](./tryhackme/)
 
-### ✅ Gomycode Project
-🔗[View Project](./module-7-Gomycodeproject/)
+## 📌 Note
 
-### ✅ Race Condition Exploitation 
-🔗 [View Project](./Race-Condition-Exploitation/)
+This repository documents my structured cybersecurity journey, including practical labs, vulnerability assessments, and defensive security exercises.
 
-### ✅ Wireshark Traffic Analysis 
-🔗 [View Project](./Wireshark-Traffic-Analysis/)
+All testing was performed in controlled lab environments for educational purposes only.
 
-### ✅ Internal Network Vulnerability Assessment
-🔗 [View Project](./Vulnerability-Assessment/)
-
-📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
+---
