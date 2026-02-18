@@ -48,9 +48,9 @@ Hands-on experience in vulnerability assessment, web application testing, and ne
 - Log Analysis & Event Correlation Basics
 
 ## 🌐 Networking & Protocols
-- TCP/IP
+- TCP/UDP/IP
 - DNS
-- HTTP/HTTPS
+- HTTP/HTTPS/FTP/SSH/TLS/SMTP/SMTPS
 - Packet Analysis
 - Basic Firewall Concepts
 
