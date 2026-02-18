@@ -129,10 +129,10 @@ Please click each module below to view objectives, learning summary, and evidenc
 ---
 ### 🧪 TryHackMe Practical Labs
  
-[View TryHackMe Portfolio](./tryhackme/)
+🔗[View TryHackMe Portfolio](./tryhackme/)
 
 ### ✅ Gomycode Project
-[View Project](./module-7-Gomycodeproject/)
+🔗[View Project](./module-7-Gomycodeproject/)
 
 ### ✅ Race Condition Exploitation 
 🔗 [View Project](./Race-Condition-Exploitation/)
@@ -141,6 +141,6 @@ Please click each module below to view objectives, learning summary, and evidenc
 🔗 [View Project](./Wireshark-Traffic-Analysis/)
 
 ### ✅ Internal Network Vulnerability Assessment
-🔗 [View Project](./Internal-Network-Vulnerability-Assessment/)
+🔗 [View Project](./Vulnerability-Assessment/)
 
 📌 *Each module contains written explanations and screenshot evidence of completed checkpoints.*
