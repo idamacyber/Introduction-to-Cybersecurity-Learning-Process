@@ -24,8 +24,8 @@ Hands-on experience in Cloud-Based SIEM Implementation Using Microsoft Sentinel,
 ### ✅ Vulnerability Assessment Nessus
 🔗 [View Project](./Vulnerability-Assessment-Nessus/)
 
-### ✅ Debian SSH Vulnerability Assessment
-🔗[View Project](./Debian-SSH-Vulnerability-Assessment/)
+### ✅ Vulnerability Assessment Nmap
+🔗[View Project](./Vulnerability-Assessment-Nmap/)
 
 ### ✅ Security Capstone Project
 🔗[View Project](./Security-Capstone-Project/)
