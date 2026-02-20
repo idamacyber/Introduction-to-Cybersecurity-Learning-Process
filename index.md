@@ -3,7 +3,7 @@
 
 Aspiring SOC Analyst | Blue Team |Vulnerability Assessment  
 
-Hands-on experience in vulnerability assessment, web application testing, and network traffic analysis.
+Hands-on experience in Cloud-Based SIEM Implementation Using Microsoft Sentinel, vulnerability assessment, web application testing, and network traffic analysis.
 
 ---
 
