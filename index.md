@@ -9,7 +9,7 @@ Hands-on experience in Cloud-Based SIEM Implementation Using Microsoft Sentinel,
 
 # 🔥 Featured Projects
 
-### ✅ Azure-Sentinel-SIEM-Lab
+### ✅ Azure Sentinel SIEM Lab
 🔗[View Project](./Azure-Sentinel-SIEM/)
 
 ### ✅ TryHackMe Blue Team Labs
