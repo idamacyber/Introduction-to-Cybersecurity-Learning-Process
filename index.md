@@ -9,9 +9,11 @@ Hands-on experience in vulnerability assessment, web application testing, and ne
 
 # 🔥 Featured Projects
 
+### ✅ Azure-Sentinel-SIEM-Lab
+🔗[View zure Sentinel SIEM Lab](./zure-Sentinel-SIEM-Lab/)
+
 ### ✅ TryHackMe Blue Team Labs
- 
-🔗[View TryHackMe Portfolio](./TryHackMe-Blue-Team-Labs/)
+ 🔗[View TryHackMe Portfolio](./TryHackMe-Blue-Team-Labs/)
 
 ### ✅ Race Condition Exploitation 
 🔗 [View Project](./Race-Condition-Exploitation/)
