@@ -110,7 +110,7 @@ Detailed module summaries and practical evidence:
 Seeking an entry-level SOC Analyst role where I can apply hands-on skills in vulnerability assessment, threat detection, and network analysis while continuously growing in defensive cybersecurity.
 
 ## 📬 Contact
-**Email Address** idamavothuke@gmail.com
+- **Email Address:** idamavothuke@gmail.com
 - **GitHub:** https://github.com/idamacyber
 - [Linkedin](/https://www.linkedin.com/in/idama-victory/)
 
