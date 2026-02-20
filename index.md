@@ -10,7 +10,7 @@ Hands-on experience in Cloud-Based SIEM Implementation Using Microsoft Sentinel,
 # 🔥 Featured Projects
 
 ### ✅ Azure-Sentinel-SIEM-Lab
-🔗[View zure Sentinel SIEM Lab](./Azure-Sentinel-SIEM/)
+🔗[View Project](./Azure-Sentinel-SIEM/)
 
 ### ✅ TryHackMe Blue Team Labs
  🔗[View TryHackMe Portfolio](./TryHackMe-Blue-Team-Labs/)
@@ -21,8 +21,11 @@ Hands-on experience in Cloud-Based SIEM Implementation Using Microsoft Sentinel,
 ### ✅ Wireshark Traffic Analysis 
 🔗 [View Project](./Wireshark-Traffic-Analysis/)
 
-### ✅ Vulnerability Assessment
-🔗 [View Project](./Vulnerability-Assessment/)
+### ✅ Vulnerability Assessment Nessus
+🔗 [View Project](./Vulnerability-Assessment-Nessus/)
+
+### ✅ Debian SSH Vulnerability Assessment
+🔗[View Project](./Debian-SSH-Vulnerability-Assessment/)
 
 ### ✅ Security Capstone Project
 🔗[View Project](./Security-Capstone-Project/)
